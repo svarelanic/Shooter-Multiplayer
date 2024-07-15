@@ -3,7 +3,7 @@ Pickup gun:
 ![PickupGun](https://github.com/user-attachments/assets/f5cc4964-1c9b-4f11-a911-4ca1e51ad1ad)
 
 
-Fire gun: 
+Fire ray trace gun: 
 
 ![Fire](https://github.com/user-attachments/assets/69bf6e6a-45ab-4f61-9bdd-3e55260a5b5a)
 
